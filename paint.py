@@ -1,5 +1,7 @@
 """Paint, for drawing shapes.
 
+Author: Mariana Edith Ramírez Navarrete
+
 Exercises
 
 1. Add a color.
